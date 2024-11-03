@@ -1,0 +1,7 @@
+/Users/deepikatiwari/Documents/Learn/Projects/az-204/webapp1/WebApplication1/bin/Publish/WebApplication1
+/Users/deepikatiwari/Documents/Learn/Projects/az-204/webapp1/WebApplication1/bin/Publish/appsettings.Development.json
+/Users/deepikatiwari/Documents/Learn/Projects/az-204/webapp1/WebApplication1/bin/Publish/appsettings.json
+/Users/deepikatiwari/Documents/Learn/Projects/az-204/webapp1/WebApplication1/bin/Publish/WebApplication1.dll
+/Users/deepikatiwari/Documents/Learn/Projects/az-204/webapp1/WebApplication1/bin/Publish/WebApplication1.deps.json
+/Users/deepikatiwari/Documents/Learn/Projects/az-204/webapp1/WebApplication1/bin/Publish/WebApplication1.runtimeconfig.json
+/Users/deepikatiwari/Documents/Learn/Projects/az-204/webapp1/WebApplication1/bin/Publish/WebApplication1.pdb
